@@ -1,0 +1,1057 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1920px;
+	 height: 4336px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 4336px;
+	 z-index:1;
+} 
+
+ #Layer1 
+{ 
+	 left: -2px; 
+	 top: 15px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 3240px;
+	 z-index:2;
+} 
+
+ #Layer2 
+{ 
+	 left: -2px; 
+	 top: 853px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 228px;
+	 z-index:3;
+} 
+
+ #Layer2copy 
+{ 
+	 left: -88px; 
+	 top: -2px; 
+	 position: absolute; 
+	 width: 2006px;
+	 height: 119px;
+	 z-index:4;
+} 
+
+ #Layer4 
+{ 
+	 left: -2px; 
+	 top: 1981px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 2177px;
+	 z-index:5;
+} 
+
+ #Layer26 
+{ 
+	 left: -88px; 
+	 top: 1071px; 
+	 position: absolute; 
+	 width: 2022px;
+	 height: 2006px;
+	 z-index:6;
+} 
+
+ #Layer25 
+{ 
+	 left: 1394px; 
+	 top: 1439px; 
+	 position: absolute; 
+	 width: 302px;
+	 height: 297px;
+	 z-index:7;
+} 
+
+ #Layer22 
+{ 
+	 left: 159px; 
+	 top: 2404px; 
+	 position: absolute; 
+	 width: 290px;
+	 height: 308px;
+	 z-index:8;
+} 
+
+ #Layer21 
+{ 
+	 left: 1374px; 
+	 top: 2404px; 
+	 position: absolute; 
+	 width: 297px;
+	 height: 298px;
+	 z-index:9;
+} 
+
+ #Layer20 
+{ 
+	 left: 159px; 
+	 top: 2405px; 
+	 position: absolute; 
+	 width: 290px;
+	 height: 302px;
+	 z-index:10;
+} 
+
+ #Layer19 
+{ 
+	 left: 787px; 
+	 top: 2405px; 
+	 position: absolute; 
+	 width: 297px;
+	 height: 299px;
+	 z-index:11;
+} 
+
+ #smylab 
+{ 
+	 left: 1399px; 
+	 top: 1137px; 
+	 position: absolute; 
+	 width: 484px;
+	 height: 99px;
+	 z-index:12;
+} 
+
+ #Layer11copy3 
+{ 
+	 left: 1429px; 
+	 top: 1071px; 
+	 position: absolute; 
+	 width: 162px;
+	 height: 161px;
+	 z-index:13;
+} 
+
+ #Layer11copy2 
+{ 
+	 left: 912px; 
+	 top: 1065px; 
+	 position: absolute; 
+	 width: 162px;
+	 height: 161px;
+	 z-index:14;
+} 
+
+ #Layer11copy 
+{ 
+	 left: 472px; 
+	 top: 1065px; 
+	 position: absolute; 
+	 width: 162px;
+	 height: 161px;
+	 z-index:15;
+} 
+
+ #Layer18 
+{ 
+	 left: 22px; 
+	 top: 1065px; 
+	 position: absolute; 
+	 width: 162px;
+	 height: 161px;
+	 z-index:16;
+} 
+
+ #InclusiveDancemoveme 
+{ 
+	 left: 949px; 
+	 top: 1132px; 
+	 position: absolute; 
+	 width: 355px;
+	 height: 100px;
+	 z-index:17;
+} 
+
+ #InclusiveArtmovement 
+{ 
+	 left: 504px; 
+	 top: 1132px; 
+	 position: absolute; 
+	 width: 283px;
+	 height: 100px;
+	 z-index:18;
+} 
+
+ #maduri 
+{ 
+	 left: 1407px; 
+	 top: 2724px; 
+	 position: absolute; 
+	 width: 305px;
+	 height: 90px;
+	 z-index:19;
+} 
+
+ #dinesh 
+{ 
+	 left: 74px; 
+	 top: 2724px; 
+	 position: absolute; 
+	 width: 464px;
+	 height: 96px;
+	 z-index:20;
+} 
+
+ #nishicopy3 
+{ 
+	 left: 86px; 
+	 top: 2825px; 
+	 position: absolute; 
+	 width: 435px;
+	 height: 79px;
+	 z-index:21;
+} 
+
+ #nishicopy2 
+{ 
+	 left: 737px; 
+	 top: 2827px; 
+	 position: absolute; 
+	 width: 435px;
+	 height: 79px;
+	 z-index:22;
+} 
+
+ #nishicopy 
+{ 
+	 left: 1359px; 
+	 top: 2823px; 
+	 position: absolute; 
+	 width: 435px;
+	 height: 79px;
+	 z-index:23;
+} 
+
+ #nishi 
+{ 
+	 left: 799px; 
+	 top: 2724px; 
+	 position: absolute; 
+	 width: 305px;
+	 height: 90px;
+	 z-index:24;
+} 
+
+ #Inclusivevolunteerin 
+{ 
+	 left: 47px; 
+	 top: 1136px; 
+	 position: absolute; 
+	 width: 346px;
+	 height: 100px;
+	 z-index:25;
+} 
+
+ #Testimonials 
+{ 
+	 left: 719px; 
+	 top: 2131px; 
+	 position: absolute; 
+	 width: 482px;
+	 height: 60px;
+	 z-index:26;
+} 
+
+ #Impact 
+{ 
+	 left: 833px; 
+	 top: 1318px; 
+	 position: absolute; 
+	 width: 254px;
+	 height: 70px;
+	 z-index:27;
+} 
+
+ #Shape16 
+{ 
+	 left: 59px; 
+	 top: 1423px; 
+	 position: absolute; 
+	 width: 372px;
+	 height: 397px;
+	 z-index:28;
+} 
+
+ #Shape17 
+{ 
+	 left: 201px; 
+	 top: 1639px; 
+	 position: absolute; 
+	 width: 223px;
+	 height: 208px;
+	 z-index:29;
+} 
+
+ #Shape18 
+{ 
+	 left: 300px; 
+	 top: 1697px; 
+	 position: absolute; 
+	 width: 125px;
+	 height: 150px;
+	 z-index:30;
+} 
+
+ #Shape19 
+{ 
+	 left: 301px; 
+	 top: 1697px; 
+	 position: absolute; 
+	 width: 158px;
+	 height: 116px;
+	 z-index:31;
+} 
+
+ #Shape16_0 
+{ 
+	 left: 524px; 
+	 top: 1423px; 
+	 position: absolute; 
+	 width: 372px;
+	 height: 397px;
+	 z-index:32;
+} 
+
+ #Shape17_0 
+{ 
+	 left: 666px; 
+	 top: 1639px; 
+	 position: absolute; 
+	 width: 223px;
+	 height: 208px;
+	 z-index:33;
+} 
+
+ #Shape18_0 
+{ 
+	 left: 765px; 
+	 top: 1697px; 
+	 position: absolute; 
+	 width: 125px;
+	 height: 150px;
+	 z-index:34;
+} 
+
+ #Shape19_0 
+{ 
+	 left: 766px; 
+	 top: 1697px; 
+	 position: absolute; 
+	 width: 158px;
+	 height: 116px;
+	 z-index:35;
+} 
+
+ #Shape16_1 
+{ 
+	 left: 1513px; 
+	 top: 1423px; 
+	 position: absolute; 
+	 width: 372px;
+	 height: 397px;
+	 z-index:36;
+} 
+
+ #Shape17_1 
+{ 
+	 left: 1655px; 
+	 top: 1639px; 
+	 position: absolute; 
+	 width: 223px;
+	 height: 208px;
+	 z-index:37;
+} 
+
+ #Shape18_1 
+{ 
+	 left: 1754px; 
+	 top: 1697px; 
+	 position: absolute; 
+	 width: 125px;
+	 height: 150px;
+	 z-index:38;
+} 
+
+ #Shape19_1 
+{ 
+	 left: 1755px; 
+	 top: 1697px; 
+	 position: absolute; 
+	 width: 158px;
+	 height: 116px;
+	 z-index:39;
+} 
+
+ #Shape16_2 
+{ 
+	 left: 1030px; 
+	 top: 1417px; 
+	 position: absolute; 
+	 width: 372px;
+	 height: 397px;
+	 z-index:40;
+} 
+
+ #Shape17_2 
+{ 
+	 left: 1172px; 
+	 top: 1633px; 
+	 position: absolute; 
+	 width: 223px;
+	 height: 208px;
+	 z-index:41;
+} 
+
+ #Shape18_2 
+{ 
+	 left: 1271px; 
+	 top: 1691px; 
+	 position: absolute; 
+	 width: 125px;
+	 height: 150px;
+	 z-index:42;
+} 
+
+ #Shape19_2 
+{ 
+	 left: 1272px; 
+	 top: 1691px; 
+	 position: absolute; 
+	 width: 158px;
+	 height: 116px;
+	 z-index:43;
+} 
+
+ #Shape1 
+{ 
+	 left: 585px; 
+	 top: 1424px; 
+	 position: absolute; 
+	 width: 441px;
+	 height: 217px;
+	 z-index:44;
+} 
+
+ #Shape2 
+{ 
+	 left: 585px; 
+	 top: 1640px; 
+	 position: absolute; 
+	 width: 340px;
+	 height: 57px;
+	 z-index:45;
+} 
+
+ #Shape4 
+{ 
+	 left: 665px; 
+	 top: 1747px; 
+	 position: absolute; 
+	 width: 102px;
+	 height: 62px;
+	 z-index:46;
+} 
+
+ #Shape3 
+{ 
+	 left: 664px; 
+	 top: 1695px; 
+	 position: absolute; 
+	 width: 263px;
+	 height: 73px;
+	 z-index:47;
+} 
+
+ #Shape12 
+{ 
+	 left: 1059px; 
+	 top: 1410px; 
+	 position: absolute; 
+	 width: 449px;
+	 height: 315px;
+	 z-index:48;
+} 
+
+ #Shape13 
+{ 
+	 left: 1133px; 
+	 top: 1686px; 
+	 position: absolute; 
+	 width: 243px;
+	 height: 60px;
+	 z-index:49;
+} 
+
+ #Shape14 
+{ 
+	 left: 1255px; 
+	 top: 1735px; 
+	 position: absolute; 
+	 width: 120px;
+	 height: 32px;
+	 z-index:50;
+} 
+
+ #Shape15 
+{ 
+	 left: 1395px; 
+	 top: 1361px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 55px;
+	 z-index:51;
+} 
+
+ #Shape5 
+{ 
+	 left: 1536px; 
+	 top: 1492px; 
+	 position: absolute; 
+	 width: 350px;
+	 height: 183px;
+	 z-index:52;
+} 
+
+ #Shape6 
+{ 
+	 left: 1657px; 
+	 top: 1474px; 
+	 position: absolute; 
+	 width: 208px;
+	 height: 48px;
+	 z-index:53;
+} 
+
+ #Shape7 
+{ 
+	 left: 1657px; 
+	 top: 1438px; 
+	 position: absolute; 
+	 width: 164px;
+	 height: 51px;
+	 z-index:54;
+} 
+
+ #Shape8 
+{ 
+	 left: 1759px; 
+	 top: 1423px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 39px;
+	 z-index:55;
+} 
+
+ #Shape9 
+{ 
+	 left: 1536px; 
+	 top: 1670px; 
+	 position: absolute; 
+	 width: 271px;
+	 height: 40px;
+	 z-index:56;
+} 
+
+ #Shape10 
+{ 
+	 left: 1599px; 
+	 top: 1706px; 
+	 position: absolute; 
+	 width: 209px;
+	 height: 52px;
+	 z-index:57;
+} 
+
+ #Shape11 
+{ 
+	 left: 1599px; 
+	 top: 1744px; 
+	 position: absolute; 
+	 width: 80px;
+	 height: 41px;
+	 z-index:58;
+} 
+
+ #layer_600 
+{ 
+	 left: 89px; 
+	 top: 1452px; 
+	 position: absolute; 
+	 width: 142px;
+	 height: 47px;
+	 z-index:59;
+} 
+
+ #layer_2000 
+{ 
+	 left: 556px; 
+	 top: 1455px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 47px;
+	 z-index:60;
+} 
+
+ #layer_5000 
+{ 
+	 left: 1060px; 
+	 top: 1454px; 
+	 position: absolute; 
+	 width: 179px;
+	 height: 47px;
+	 z-index:61;
+} 
+
+ #layer_6000 
+{ 
+	 left: 1544px; 
+	 top: 1452px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 47px;
+	 z-index:62;
+} 
+
+ #PersonswithDisabilit 
+{ 
+	 left: 88px; 
+	 top: 1545px; 
+	 position: absolute; 
+	 width: 278px;
+	 height: 69px;
+	 z-index:63;
+} 
+
+ #volunteers 
+{ 
+	 left: 557px; 
+	 top: 1546px; 
+	 position: absolute; 
+	 width: 204px;
+	 height: 28px;
+	 z-index:64;
+} 
+
+ #Beneficiaries 
+{ 
+	 left: 1061px; 
+	 top: 1544px; 
+	 position: absolute; 
+	 width: 233px;
+	 height: 29px;
+	 z-index:65;
+} 
+
+ #Beneficiariescopy 
+{ 
+	 left: 1543px; 
+	 top: 1544px; 
+	 position: absolute; 
+	 width: 221px;
+	 height: 35px;
+	 z-index:66;
+} 
+
+ #Layer17 
+{ 
+	 left: 1225px; 
+	 top: 3275px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 49px;
+	 z-index:67;
+} 
+
+ #Layer10 
+{ 
+	 left: 1022px; 
+	 top: 3281px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 43px;
+	 z-index:68;
+} 
+
+ #Layer15 
+{ 
+	 left: 700px; 
+	 top: 3290px; 
+	 position: absolute; 
+	 width: 196px;
+	 height: 31px;
+	 z-index:69;
+} 
+
+ #media 
+{ 
+	 left: 830px; 
+	 top: 3163px; 
+	 position: absolute; 
+	 width: 230px;
+	 height: 60px;
+	 z-index:70;
+} 
+
+ #Layer9 
+{ 
+	 left: 485px; 
+	 top: 3285px; 
+	 position: absolute; 
+	 width: 112px;
+	 height: 39px;
+	 z-index:71;
+} 
+
+ #smileysindiagmailcom 
+{ 
+	 left: 1464px; 
+	 top: 3821px; 
+	 position: absolute; 
+	 width: 226px;
+	 height: 19px;
+	 z-index:72;
+} 
+
+ #layer_9739038542 
+{ 
+	 left: 1523px; 
+	 top: 3799px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 16px;
+	 z-index:73;
+} 
+
+ #No4247thmainVijyaBan 
+{ 
+	 left: 1333px; 
+	 top: 3731px; 
+	 position: absolute; 
+	 width: 447px;
+	 height: 19px;
+	 z-index:74;
+} 
+
+ #Contactus 
+{ 
+	 left: 1498px; 
+	 top: 3675px; 
+	 position: absolute; 
+	 width: 161px;
+	 height: 24px;
+	 z-index:75;
+} 
+
+ #Downloads 
+{ 
+	 left: 747px; 
+	 top: 3807px; 
+	 position: absolute; 
+	 width: 102px;
+	 height: 15px;
+	 z-index:76;
+} 
+
+ #Volunteer 
+{ 
+	 left: 747px; 
+	 top: 3842px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 14px;
+	 z-index:77;
+} 
+
+ #EventCalender 
+{ 
+	 left: 746px; 
+	 top: 3768px; 
+	 position: absolute; 
+	 width: 142px;
+	 height: 16px;
+	 z-index:78;
+} 
+
+ #SmileysIndiaisanonpr 
+{ 
+	 left: 130px; 
+	 top: 3724px; 
+	 position: absolute; 
+	 width: 312px;
+	 height: 121px;
+	 z-index:79;
+} 
+
+ #Home 
+{ 
+	 left: 746px; 
+	 top: 3731px; 
+	 position: absolute; 
+	 width: 54px;
+	 height: 14px;
+	 z-index:80;
+} 
+
+ #Sitelinks 
+{ 
+	 left: 748px; 
+	 top: 3675px; 
+	 position: absolute; 
+	 width: 141px;
+	 height: 24px;
+	 z-index:81;
+} 
+
+ #Aboutus 
+{ 
+	 left: 134px; 
+	 top: 3671px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 24px;
+	 z-index:82;
+} 
+
+ #Layer3 
+{ 
+	 left: -88px; 
+	 top: 1px; 
+	 position: absolute; 
+	 width: 2006px;
+	 height: 119px;
+	 z-index:83;
+} 
+
+ #SMILEYSNEWLOGOBLACK 
+{ 
+	 left: 49px; 
+	 top: 19px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 90px;
+	 z-index:84;
+} 
+
+ #aboutus 
+{ 
+	 left: 183px; 
+	 top: 36px; 
+	 position: absolute; 
+	 width: 138px;
+	 height: 38px;
+	 z-index:85;
+} 
+
+ #Layer24 
+{ 
+	 left: 813px; 
+	 top: 1444px; 
+	 position: absolute; 
+	 width: 298px;
+	 height: 297px;
+	 z-index:86;
+} 
+
+ #Whatwedo 
+{ 
+	 left: 686px; 
+	 top: 934px; 
+	 position: absolute; 
+	 width: 494px;
+	 height: 60px;
+	 z-index:87;
+} 
+
+ #WeAreSmileys 
+{ 
+	 left: -2px; 
+	 top: 118px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 735px;
+	 z-index:88;
+} 
+
+ #arrow36512copy 
+{ 
+	 left: 933px; 
+	 top: 1033px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 8px;
+	 z-index:89;
+} 
+
+ #arrow36512 
+{ 
+	 left: 536px; 
+	 top: 64px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 8px;
+	 z-index:90;
+} 
+
+ #linkedin4512 
+{ 
+	 left: 1841px; 
+	 top: 34px; 
+	 position: absolute; 
+	 width: 55px;
+	 height: 55px;
+	 z-index:91;
+} 
+
+ #Layer12 
+{ 
+	 left: 1748px; 
+	 top: 33px; 
+	 position: absolute; 
+	 width: 54px;
+	 height: 55px;
+	 z-index:92;
+} 
+
+ #Layer11 
+{ 
+	 left: 1655px; 
+	 top: 34px; 
+	 position: absolute; 
+	 width: 54px;
+	 height: 54px;
+	 z-index:93;
+} 
+
+ #CAMPAIGNS 
+{ 
+	 left: 853px; 
+	 top: 49px; 
+	 position: absolute; 
+	 width: 161px;
+	 height: 49px;
+	 z-index:94;
+} 
+
+ #VOLUNTEER 
+{ 
+	 left: 629px; 
+	 top: 34px; 
+	 position: absolute; 
+	 width: 153px;
+	 height: 37px;
+	 z-index:95;
+} 
+
+ #PROGRAMS 
+{ 
+	 left: 372px; 
+	 top: 55px; 
+	 position: absolute; 
+	 width: 162px;
+	 height: 43px;
+	 z-index:96;
+} 
+
+ #CONTACTUSICONcopy 
+{ 
+	 left: 1349px; 
+	 top: 28px; 
+	 position: absolute; 
+	 width: 254px;
+	 height: 66px;
+	 z-index:97;
+} 
+
+ #DONATE 
+{ 
+	 left: 1404px; 
+	 top: 50px; 
+	 position: absolute; 
+	 width: 138px;
+	 height: 22px;
+	 z-index:98;
+} 
+
+ #Layer16 
+{ 
+	 left: 498px; 
+	 top: 3550px; 
+	 position: absolute; 
+	 width: 91px;
+	 height: 48px;
+	 z-index:99;
+} 
+
+ #Partners 
+{ 
+	 left: 776px; 
+	 top: 3416px; 
+	 position: absolute; 
+	 width: 321px;
+	 height: 58px;
+	 z-index:100;
+} 
+
+ #Layer8 
+{ 
+	 left: 1193px; 
+	 top: 3556px; 
+	 position: absolute; 
+	 width: 162px;
+	 height: 34px;
+	 z-index:101;
+} 
+
+ #Layer7 
+{ 
+	 left: 927px; 
+	 top: 3554px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 40px;
+	 z-index:102;
+} 
+
+ #Layer6 
+{ 
+	 left: 680px; 
+	 top: 3550px; 
+	 position: absolute; 
+	 width: 161px;
+	 height: 39px;
+	 z-index:103;
+} 
+
+ #Layer5 
+{ 
+	 left: 352px; 
+	 top: 3542px; 
+	 position: absolute; 
+	 width: 55px;
+	 height: 55px;
+	 z-index:104;
+} 
